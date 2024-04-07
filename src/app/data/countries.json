@@ -1,0 +1,1038 @@
+{
+    "India": {
+      "region": "asia",
+      "code": ""
+    },
+    "China": {
+      "region": "asia",
+      "code": ""
+    },
+    "Indonesia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Pakistan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Bangladesh": {
+      "region": "asia",
+      "code": ""
+    },
+    "Japan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Philippines": {
+      "region": "asia",
+      "code": ""
+    },
+    "Vietnam": {
+      "region": "asia",
+      "code": ""
+    },
+    "Iran": {
+      "region": "asia",
+      "code": ""
+    },
+    "Turkey": {
+      "region": "asia",
+      "code": ""
+    },
+    "Thailand": {
+      "region": "asia",
+      "code": ""
+    },
+    "Myanmar": {
+      "region": "asia",
+      "code": ""
+    },
+    "South Korea": {
+      "region": "asia",
+      "code": ""
+    },
+    "Iraq": {
+      "region": "asia",
+      "code": ""
+    },
+    "Afghanistan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Saudi Arabia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Uzbekistan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Yemen": {
+      "region": "asia",
+      "code": ""
+    },
+    "Malaysia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Nepal": {
+      "region": "asia",
+      "code": ""
+    },
+    "North Korea": {
+      "region": "asia",
+      "code": ""
+    },
+    "Syria": {
+      "region": "asia",
+      "code": ""
+    },
+    "Sri Lanka": {
+      "region": "asia",
+      "code": ""
+    },
+    "Kazakhstan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Cambodia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Jordan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Azerbaijan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Tajikistan": {
+      "region": "asia",
+      "code": ""
+    },
+    "United Arab Emirates": {
+      "region": "asia",
+      "code": ""
+    },
+    "Israel": {
+      "region": "asia",
+      "code": ""
+    },
+    "Laos": {
+      "region": "asia",
+      "code": ""
+    },
+    "Kyrgyzstan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Turkmenistan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Singapore": {
+      "region": "asia",
+      "code": ""
+    },
+    "Palestine": {
+      "region": "asia",
+      "code": ""
+    },
+    "Lebanon": {
+      "region": "asia",
+      "code": ""
+    },
+    "Oman": {
+      "region": "asia",
+      "code": ""
+    },
+    "Kuwait": {
+      "region": "asia",
+      "code": ""
+    },
+    "Georgia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Mongolia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Armenia": {
+      "region": "asia",
+      "code": ""
+    },
+    "Qatar": {
+      "region": "asia",
+      "code": ""
+    },
+    "Bahrain": {
+      "region": "asia",
+      "code": ""
+    },
+    "Timor-Leste": {
+      "region": "asia",
+      "code": ""
+    },
+    "Bhutan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Maldives": {
+      "region": "asia",
+      "code": ""
+    },
+    "Brunei": {
+      "region": "asia",
+      "code": ""
+    },
+    "East Timor": {
+      "region": "asia",
+      "code": ""
+    },
+    "Hong Kong": {
+      "region": "asia",
+      "code": ""
+    },
+    "Macao": {
+      "region": "asia",
+      "code": ""
+    },
+    "Taiwan": {
+      "region": "asia",
+      "code": ""
+    },
+    "Andorra": {
+      "region": "europe",
+      "code": ""
+    },
+    "Albania": {
+      "region": "europe",
+      "code": ""
+    },
+    "Austria": {
+      "region": "europe",
+      "code": ""
+    },
+    "Åland Islands": {
+      "region": "europe",
+      "code": ""
+    },
+    "Bosnia and Herzegovina": {
+      "region": "europe",
+      "code": ""
+    },
+    "Belgium": {
+      "region": "europe",
+      "code": ""
+    },
+    "Bulgaria": {
+      "region": "europe",
+      "code": ""
+    },
+    "Belarus": {
+      "region": "europe",
+      "code": ""
+    },
+    "Switzerland": {
+      "region": "europe",
+      "code": ""
+    },
+    "Cyprus": {
+      "region": "europe",
+      "code": ""
+    },
+    "Czechia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Germany": {
+      "region": "europe",
+      "code": ""
+    },
+    "Denmark": {
+      "region": "europe",
+      "code": ""
+    },
+    "Estonia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Spain": {
+      "region": "europe",
+      "code": ""
+    },
+    "Finland": {
+      "region": "europe",
+      "code": ""
+    },
+    "Faroe Islands": {
+      "region": "europe",
+      "code": ""
+    },
+    "France": {
+      "region": "europe",
+      "code": ""
+    },
+    "United Kingdom": {
+      "region": "europe",
+      "code": ""
+    },
+    "Guernsey": {
+      "region": "europe",
+      "code": ""
+    },
+    "Greece": {
+      "region": "europe",
+      "code": ""
+    },
+    "Croatia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Hungary": {
+      "region": "europe",
+      "code": ""
+    },
+    "Ireland": {
+      "region": "europe",
+      "code": ""
+    },
+    "Isle of Man": {
+      "region": "europe",
+      "code": ""
+    },
+    "Iceland": {
+      "region": "europe",
+      "code": ""
+    },
+    "Italy": {
+      "region": "europe",
+      "code": ""
+    },
+    "Jersey": {
+      "region": "europe",
+      "code": ""
+    },
+    "Liechtenstein": {
+      "region": "europe",
+      "code": ""
+    },
+    "Lithuania": {
+      "region": "europe",
+      "code": ""
+    },
+    "Luxembourg": {
+      "region": "europe",
+      "code": ""
+    },
+    "Latvia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Monaco": {
+      "region": "europe",
+      "code": ""
+    },
+    "Moldova": {
+      "region": "europe",
+      "code": ""
+    },
+    "Republic of Macedonia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Malta": {
+      "region": "europe",
+      "code": ""
+    },
+    "Netherlands": {
+      "region": "europe",
+      "code": ""
+    },
+    "Norway": {
+      "region": "europe",
+      "code": ""
+    },
+    "Poland": {
+      "region": "europe",
+      "code": ""
+    },
+    "Portugal": {
+      "region": "europe",
+      "code": ""
+    },
+    "Romania": {
+      "region": "europe",
+      "code": ""
+    },
+    "Russia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Sweden": {
+      "region": "europe",
+      "code": ""
+    },
+    "Slovenia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Svalbard and Jan Mayen": {
+      "region": "europe",
+      "code": ""
+    },
+    "Slovakia": {
+      "region": "europe",
+      "code": ""
+    },
+    "San Marino": {
+      "region": "europe",
+      "code": ""
+    },
+    "Ukraine": {
+      "region": "europe",
+      "code": ""
+    },
+    "Holy See (Vatican City State)": {
+      "region": "europe",
+      "code": ""
+    },
+    "Gibraltar": {
+      "region": "europe",
+      "code": ""
+    },
+    "Kosovo": {
+      "region": "europe",
+      "code": ""
+    },
+    "Montenegro": {
+      "region": "europe",
+      "code": ""
+    },
+    "North Macedonia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Serbia": {
+      "region": "europe",
+      "code": ""
+    },
+    "Nigeria": {
+      "region": "africa",
+      "code": ""
+    },
+    "Ethiopia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Egypt": {
+      "region": "africa",
+      "code": ""
+    },
+    "Democratic Republic of Congo": {
+      "region": "africa",
+      "code": ""
+    },
+    "Tanzania": {
+      "region": "africa",
+      "code": ""
+    },
+    "South Africa": {
+      "region": "africa",
+      "code": ""
+    },
+    "Kenya": {
+      "region": "africa",
+      "code": ""
+    },
+    "Uganda": {
+      "region": "africa",
+      "code": ""
+    },
+    "Sudan": {
+      "region": "africa",
+      "code": ""
+    },
+    "Algeria": {
+      "region": "africa",
+      "code": ""
+    },
+    "Morocco": {
+      "region": "africa",
+      "code": ""
+    },
+    "Angola": {
+      "region": "africa",
+      "code": ""
+    },
+    "Ghana": {
+      "region": "africa",
+      "code": ""
+    },
+    "Mozambique": {
+      "region": "africa",
+      "code": ""
+    },
+    "Madagascar": {
+      "region": "africa",
+      "code": ""
+    },
+    "Cote d'Ivoire": {
+      "region": "africa",
+      "code": ""
+    },
+    "Cameroon": {
+      "region": "africa",
+      "code": ""
+    },
+    "Niger": {
+      "region": "africa",
+      "code": ""
+    },
+    "Mali": {
+      "region": "africa",
+      "code": ""
+    },
+    "Burkina Faso": {
+      "region": "africa",
+      "code": ""
+    },
+    "Malawi": {
+      "region": "africa",
+      "code": ""
+    },
+    "Zambia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Chad": {
+      "region": "africa",
+      "code": ""
+    },
+    "Somalia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Senegal": {
+      "region": "africa",
+      "code": ""
+    },
+    "Zimbabwe": {
+      "region": "africa",
+      "code": ""
+    },
+    "Guinea": {
+      "region": "africa",
+      "code": ""
+    },
+    "Rwanda": {
+      "region": "africa",
+      "code": ""
+    },
+    "Benin": {
+      "region": "africa",
+      "code": ""
+    },
+    "Burundi": {
+      "region": "africa",
+      "code": ""
+    },
+    "Tunisia": {
+      "region": "africa",
+      "code": ""
+    },
+    "South Sudan": {
+      "region": "africa",
+      "code": ""
+    },
+    "Togo": {
+      "region": "africa",
+      "code": ""
+    },
+    "Sierra Leone": {
+      "region": "africa",
+      "code": ""
+    },
+    "Libya": {
+      "region": "africa",
+      "code": ""
+    },
+    "Congo": {
+      "region": "africa",
+      "code": ""
+    },
+    "Central African Republic": {
+      "region": "africa",
+      "code": ""
+    },
+    "Liberia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Mauritania": {
+      "region": "africa",
+      "code": ""
+    },
+    "Eritrea": {
+      "region": "africa",
+      "code": ""
+    },
+    "Gambia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Botswana": {
+      "region": "africa",
+      "code": ""
+    },
+    "Namibia": {
+      "region": "africa",
+      "code": ""
+    },
+    "Gabon": {
+      "region": "africa",
+      "code": ""
+    },
+    "Lesotho": {
+      "region": "africa",
+      "code": ""
+    },
+    "Guinea-Bissau": {
+      "region": "africa",
+      "code": ""
+    },
+    "Equatorial Guinea": {
+      "region": "africa",
+      "code": ""
+    },
+    "Mauritius": {
+      "region": "africa",
+      "code": ""
+    },
+    "Eswatini": {
+      "region": "africa",
+      "code": ""
+    },
+    "Djibouti": {
+      "region": "africa",
+      "code": ""
+    },
+    "Comoros": {
+      "region": "africa",
+      "code": ""
+    },
+    "Cape Verde": {
+      "region": "africa",
+      "code": ""
+    },
+    "Sao Tome and Principe": {
+      "region": "africa",
+      "code": ""
+    },
+    "Seychelles": {
+      "region": "africa",
+      "code": ""
+    },
+    "Saint Helena": {
+      "region": "africa",
+      "code": ""
+    },
+    "Western Sahara": {
+      "region": "africa",
+      "code": ""
+    },
+    "Australia": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Papua New Guinea": {
+      "region": "oceania",
+      "code": ""
+    },
+    "New Zealand": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Fiji": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Solomon Islands": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Micronesia (country)": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Vanuatu": {
+      "region": "oceania",
+      "code": ""
+    },
+    "American Samoa": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Kiribati": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Tonga": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Marshall Islands": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Palau": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Nauru": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Tuvalu": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Cook Islands": {
+      "region": "oceania",
+      "code": ""
+    },
+    "French Polynesia": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Guam": {
+      "region": "oceania",
+      "code": ""
+    },
+    "New Caledonia": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Niue": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Northern Mariana Islands": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Samoa": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Tokelau": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Wallis and Futuna": {
+      "region": "oceania",
+      "code": ""
+    },
+    "Canada": {
+      "region": "americas",
+      "code": ""
+    },
+    "Greenland": {
+      "region": "americas",
+      "code": ""
+    },
+    "Mexico": {
+      "region": "americas",
+      "code": ""
+    },
+    "United States": {
+      "region": "americas",
+      "code": ""
+    },
+    "Anguilla": {
+      "region": "americas",
+      "code": ""
+    },
+    "Antigua and Barbuda": {
+      "region": "americas",
+      "code": ""
+    },
+    "Aruba": {
+      "region": "americas",
+      "code": ""
+    },
+    "Bahamas": {
+      "region": "americas",
+      "code": ""
+    },
+    "Barbados": {
+      "region": "americas",
+      "code": ""
+    },
+    "Bermuda": {
+      "region": "americas",
+      "code": ""
+    },
+    "British Virgin Islands": {
+      "region": "americas",
+      "code": ""
+    },
+    "Cayman Islands": {
+      "region": "americas",
+      "code": ""
+    },
+    "Cuba": {
+      "region": "americas",
+      "code": ""
+    },
+    "Curacao": {
+      "region": "americas",
+      "code": ""
+    },
+    "Dominica": {
+      "region": "americas",
+      "code": ""
+    },
+    "Dominican Republic": {
+      "region": "americas",
+      "code": ""
+    },
+    "Grenada": {
+      "region": "americas",
+      "code": ""
+    },
+    "Guadeloupe": {
+      "region": "americas",
+      "code": ""
+    },
+    "Haiti": {
+      "region": "americas",
+      "code": ""
+    },
+    "Jamaica": {
+      "region": "americas",
+      "code": ""
+    },
+    "Martinique": {
+      "region": "americas",
+      "code": ""
+    },
+    "Montserrat": {
+      "region": "americas",
+      "code": ""
+    },
+    "Puerto Rico": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Kitts and Nevis": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Lucia": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Vincent and the Grenadines": {
+      "region": "americas",
+      "code": ""
+    },
+    "Trinidad and Tobago": {
+      "region": "americas",
+      "code": ""
+    },
+    "United States Virgin Islands": {
+      "region": "americas",
+      "code": ""
+    },
+    "Belize": {
+      "region": "americas",
+      "code": ""
+    },
+    "Costa Rica": {
+      "region": "americas",
+      "code": ""
+    },
+    "El Salvador": {
+      "region": "americas",
+      "code": ""
+    },
+    "Guatemala": {
+      "region": "americas",
+      "code": ""
+    },
+    "Honduras": {
+      "region": "americas",
+      "code": ""
+    },
+    "Nicaragua": {
+      "region": "americas",
+      "code": ""
+    },
+    "Panama": {
+      "region": "americas",
+      "code": ""
+    },
+    "Argentina": {
+      "region": "americas",
+      "code": ""
+    },
+    "Bolivia": {
+      "region": "americas",
+      "code": ""
+    },
+    "Brazil": {
+      "region": "americas",
+      "code": ""
+    },
+    "Chile": {
+      "region": "americas",
+      "code": ""
+    },
+    "Colombia": {
+      "region": "americas",
+      "code": ""
+    },
+    "Ecuador": {
+      "region": "americas",
+      "code": ""
+    },
+    "French Guiana": {
+      "region": "americas",
+      "code": ""
+    },
+    "Guyana": {
+      "region": "americas",
+      "code": ""
+    },
+    "Paraguay": {
+      "region": "americas",
+      "code": ""
+    },
+    "Peru": {
+      "region": "americas",
+      "code": ""
+    },
+    "Suriname": {
+      "region": "americas",
+      "code": ""
+    },
+    "Uruguay": {
+      "region": "americas",
+      "code": ""
+    },
+    "Venezuela": {
+      "region": "americas",
+      "code": ""
+    },
+    "Bonaire Sint Eustatius and Saba": {
+      "region": "americas",
+      "code": ""
+    },
+    "Falkland Islands": {
+      "region": "americas",
+      "code": ""
+    },
+    "Mayotte": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Barthelemy": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Martin (French part)": {
+      "region": "americas",
+      "code": ""
+    },
+    "Saint Pierre and Miquelon": {
+      "region": "americas",
+      "code": ""
+    },
+    "Sint Maarten (Dutch part)": {
+      "region": "americas",
+      "code": ""
+    },
+    "Turks and Caicos Islands": {
+      "region": "americas",
+      "code": ""
+    },
+    "Africa (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "Asia (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "Europe (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "High-income countries": {
+      "region": "global",
+      "code": ""
+    },
+    "Land-locked developing countries (LLDC)": {
+      "region": "global",
+      "code": ""
+    },
+    "Latin America and the Caribbean (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "Least developed countries": {
+      "region": "global",
+      "code": ""
+    },
+    "Less developed regions": {
+      "region": "global",
+      "code": ""
+    },
+    "Less developed regions, excluding China":{
+        "region": "global",
+        "code": ""
+    },
+    "Less developed regions, excluding least developed countries": {
+        "region": "global",
+        "code": ""
+    },
+    "Low-income countries": {
+      "region": "global",
+      "code": ""
+    },
+    "Lower-middle-income countries": {
+      "region": "global",
+      "code": ""
+    },
+    "More developed regions": {
+      "region": "global",
+      "code": ""
+    },
+    "Northern America (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "Oceania (UN)": {
+      "region": "global",
+      "code": ""
+    },
+    "Reunion": {
+      "region": "global",
+      "code": ""
+    },
+    "Small island developing states (SIDS)": {
+      "region": "global",
+      "code": ""
+    },
+    "Upper-middle-income countries": {
+      "region": "global",
+      "code": ""
+    },
+    "World": {
+      "region": "global",
+      "code": ""
+    }
+  }

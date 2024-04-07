@@ -1,0 +1,80 @@
+{
+    "asia": [
+        "India", "China", "Indonesia", "Pakistan",
+        "Bangladesh", "Japan", "Philippines", "Vietnam",
+        "Iran","Turkey", "Thailand", "Myanmar", 
+        "South Korea", "Iraq", "Afghanistan", "Saudi Arabia", 
+        "Uzbekistan", "Yemen", "Malaysia", "Nepal", 
+        "North Korea", "Syria", "Sri Lanka", "Kazakhstan", 
+        "Cambodia", "Jordan", "Azerbaijan", "Tajikistan", 
+        "United Arab Emirates", "Israel", "Laos", "Kyrgyzstan", 
+        "Turkmenistan", "Singapore", "Palestine","Lebanon", 
+        "Oman", "Kuwait", "Georgia", "Mongolia", 
+        "Armenia", "Qatar", "Bahrain", "Timor-Leste", 
+        "Bhutan", "Maldives", "Brunei","East Timor",
+        "Hong Kong","Macao","Taiwan"
+    ],
+    "europe": [
+        "Andorra", "Albania", "Austria", "Åland Islands",
+        "Bosnia and Herzegovina", "Belgium","Bulgaria","Belarus", 
+        "Switzerland", "Cyprus", "Czechia", "Germany",
+        "Denmark", "Estonia", "Spain", "Finland",
+        "Faroe Islands", "France", "United Kingdom", "Guernsey",
+        "Greece", "Croatia", "Hungary", "Ireland",
+        "Isle of Man", "Iceland", "Italy", "Jersey",
+        "Liechtenstein", "Lithuania", "Luxembourg", "Latvia",
+        "Monaco", "Moldova", "Republic of Macedonia", "Malta",
+        "Netherlands", "Norway", "Poland", "Portugal",
+        "Romania", "Russia", "Sweden", "Slovenia",
+        "Svalbard and Jan Mayen", "Slovakia", "San Marino", "Ukraine",
+        "Holy See (Vatican City State)", "Gibraltar" , "Kosovo", "Montenegro",
+        "North Macedonia","Serbia"
+    ],
+    "africa": [
+        "Nigeria", "Ethiopia", "Egypt", "Democratic Republic of Congo",
+        "Tanzania", "South Africa", "Kenya", "Uganda",
+        "Sudan", "Algeria", "Morocco", "Angola",
+        "Ghana", "Mozambique", "Madagascar", "Cote d'Ivoire",
+        "Cameroon", "Niger" , "Mali", "Burkina Faso",
+        "Malawi", "Zambia" ,"Chad", "Somalia",
+        "Senegal", "Zimbabwe", "Guinea", "Rwanda","Benin",
+        "Burundi", "Tunisia", "South Sudan", "Togo",
+        "Sierra Leone", "Libya", "Congo", "Central African Republic",
+        "Liberia", "Mauritania", "Eritrea", "Gambia",
+        "Botswana", "Namibia", "Gabon", "Lesotho",
+        "Guinea-Bissau", "Equatorial Guinea", "Mauritius", "Eswatini",
+        "Djibouti", "Comoros", "Cape Verde", "Sao Tome and Principe",
+        "Seychelles", "Saint Helena", "Western Sahara"
+    ],
+    "oceania": [
+        "Australia", "Papua New Guinea", "New Zealand", "Fiji",
+        "Solomon Islands", "Micronesia (country)", "Vanuatu", "American Samoa",
+        "Kiribati", "Tonga", "Marshall Islands", "Palau",
+        "Nauru", "Tuvalu", "Cook Islands", "French Polynesia",
+        "Guam", "New Caledonia", "Niue", "Northern Mariana Islands", 
+        "Samoa", "Tokelau", "Wallis and Futuna"
+    ],
+    "americas":[
+        "Canada", "Greenland", "Mexico", "United States",
+        "Anguilla", "Antigua and Barbuda", "Aruba", "Bahamas",
+        "Barbados", "Bermuda", "British Virgin Islands", "Cayman Islands",
+        "Cuba", "Curacao", "Dominica", "Dominican Republic",
+        "Grenada", "Guadeloupe", "Haiti", "Jamaica", 
+        "Martinique", "Montserrat", "Puerto Rico", "Saint Kitts and Nevis",
+        "Saint Lucia", "Saint Vincent and the Grenadines", "Trinidad and Tobago",
+        "United States Virgin Islands", "Belize","Costa Rica", "El Salvador", 
+        "Guatemala", "Honduras", "Nicaragua", "Panama",
+        "Argentina", "Bolivia", "Brazil", "Chile",
+        "Colombia", "Ecuador", "French Guiana", "Guyana",
+        "Paraguay", "Peru", "Suriname", "Uruguay",
+        "Venezuela", "Bonaire Sint Eustatius and Saba", "Falkland Islands", "Mayotte", 
+        "Saint Barthelemy", "Saint Martin (French part)", "Saint Pierre and Miquelon", "Sint Maarten (Dutch part)",
+        "Turks and Caicos Islands"
+    ],
+    "global":[
+        "Africa (UN)", "Asia (UN)", "Europe (UN)", "High-income countries",
+        "Land-locked developing countries (LLDC)", "Latin America and the Caribbean (UN)", "Least developed countries", "Less developed regions",
+        "Low-income countries", "Lower-middle-income countries", "More developed regions", "Northern America (UN)",
+        "Oceania (UN)", "Reunion", "Small island developing states (SIDS)", "Upper-middle-income countries", "World"
+    ]
+}
