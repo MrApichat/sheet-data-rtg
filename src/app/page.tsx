@@ -22,7 +22,7 @@ export default function Home() {
   useEffect(() => {
     // call data at first time when running app
     const fetchData = async () => {
-      const response = await fetch('../../../population-and-demography.csv');
+      const response = await fetch('/population-and-demography.csv');
       const csvData = await response.text();
       const result = csvData.split(/\r?\n/).slice(1);
       const list: any[] = []
