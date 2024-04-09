@@ -8,6 +8,7 @@ import { compare } from '../../utils/utils';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCirclePause, faCirclePlay } from '@fortawesome/free-solid-svg-icons';
 import ChartDataLabels from 'chartjs-plugin-datalabels';
+import Ruler from './components/Ruler';
 
 Chart.register(ChartDataLabels)
 
@@ -18,13 +19,19 @@ interface PopulationData {
   region: string;
 }
 
+interface TotalPopulationData {
+  [year: number]: string
+}
+
 export default function Home() {
   const [myChart, setChart] = useState<Chart<"bar"> | null>(null);
   // var popuData: Record<number, PopulationData[]>
   const [populationData, setPopulationData] = useState<Record<number, PopulationData[]>>({});
-  const [currentYear, setCurrentYear] = useState<number | null>(null);
+  const [currentYear, setCurrentYear] = useState<number>(1950);
   const [firstYear, setFirstYear] = useState<number | null>(null);
   const [lastYear, setLastYear] = useState<number | null>(null);
+  const [yearList, setYearList] = useState<string[]>([])
+  const [total, setTotal] = useState<TotalPopulationData>({});
   const [animationTimeout, setAnimationTimeout] = useState<NodeJS.Timeout | null>(null);
   const [labelList, setLabelList] = useState([false, false, false, false, false])
   const [isPaused, setIsPaused] = useState(false);
@@ -36,6 +43,7 @@ export default function Home() {
       const csvData = await response.text();
       const result = csvData.split(/\r?\n/).slice(1);
       const list: any[] = []
+      var totalList = {}
 
       result.forEach(element => {
         //0 = country, 1 = year, 2= population
@@ -57,11 +65,18 @@ export default function Home() {
         if (regions && regions.region != 'global') {
           list.push({ country: item[0], years: year, population: +population, color: getCountryColor(regions?.region || ''), region: regions?.region })
         }
+
+        if (country == 'World') {
+          totalList = { ...totalList, [year]: new Intl.NumberFormat('en-US').format(+population) }
+        }
       })
 
       //group data by year and set it to populationData value
       var groupData = Object.groupBy(list, ({ years }) => years)
       Object.entries(groupData).map(([key, value]) => value?.sort(compare))
+      const yearDatas = Object.keys(groupData)
+      setYearList(yearDatas)
+      setTotal(totalList)
       setPopulationData(groupData as any)
     };
 
@@ -125,7 +140,7 @@ export default function Home() {
           },
           responsive: true,
           scales: {
-            x: { beginAtZero: true, grace: '5%' },
+            x: { beginAtZero: true, grace: '10%' },
             y: {
               grid: {
                 display: false
@@ -191,15 +206,13 @@ export default function Home() {
                 const format = new Intl.NumberFormat('en-US')
                 return format.format(value);
               }
-            }
+            },
+          
           },
-
         },
-
       });
       setChart(chart)
     }
-
   }, [populationData])
 
   useEffect(() => {
@@ -276,15 +289,22 @@ export default function Home() {
   return (
     <>
       {/* line chart */}
-      <h1 className="w-full mx-auto mt-10 text-xl font-semibold capitalize text-center">Population growth per country, 1950 to 2021</h1>
-      <div className="w-[1000px] mx-auto my-auto">
+      <h1 className="chart-title">Population growth per country, 1950 to 2021</h1>
+      <div className="chart-container">
         <p>Click on the legend below to filter by continent 👇</p>
-        <div className='border border-gray-400 pt-0 rounded-xl  w-full h-fit my-auto  shadow-xl '>
+        <div className='chart-wrapper'>
           <canvas id='myChart'></canvas>
+          <div className='chart-info'>
+            <div className='chart-year'>{currentYear}</div>
+            <div>{`Total: ${total[currentYear] != undefined ? total[currentYear] : 0}`}</div>
+          </div>
         </div>
+      </div >
+      <div className="chart-controls">
         <button onClick={isPaused ? resumeAnimation : pauseAnimation}>
           {isPaused ? <FontAwesomeIcon size={'2xl'} icon={faCirclePlay} /> : <FontAwesomeIcon size={'2xl'} icon={faCirclePause} />}
         </button>
+        <Ruler labels={yearList} now={currentYear?.toString()} />
       </div>
 
     </>
