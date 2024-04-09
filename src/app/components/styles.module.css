@@ -1,0 +1,49 @@
+/* styles.module.css */
+.ruler {
+  position: relative;
+  display: flex;
+  margin-left: 10px;
+  width: '100%';
+  /* Adjust width as needed */
+  height: 50px;
+  /* Adjust height as needed */
+}
+
+.ruler__tick {
+  position: absolute;
+  top: 0;
+  width: 2px;
+  /* Adjust tick width */
+  height: 10px;
+  /* Adjust tick height */
+  background-color: black;
+}
+
+.ruler__label {
+  top: 20px;
+  /* Adjust label positioning */
+  font-size: 10px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* Generate ticks and labels with CSS pseudo-elements */
+.ruler::before {
+  content: "";
+  position: absolute;
+  margin-top: 15px;
+  transform: translateY(-50%);
+  width: 100%;
+  height: 1px;
+  background-color: black;
+}
+
+.ruler__box {
+  writing-mode: vertical-rl;
+  text-orientation: 'mixed';
+}
+
+.ruler__icon {
+  position: absolute;
+  transform: translateX(6px)
+}
